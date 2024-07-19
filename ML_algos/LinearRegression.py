@@ -1,5 +1,5 @@
 """
-authur by: Bhuvan Chennoju
+author by: Bhuvan Chennoju
 created on: 16th July 2024
 
 Linear Regression Algorithm
