@@ -1,7 +1,5 @@
 # InterviewPrep
 
-Welcome to the **InterviewPrep** repository, your go-to resource for mastering the technical interviews for roles such as Data Scientist, Applied Scientist, and Machine Learning Engineer.
-
 ## Overview
 
 This repository is designed to help you prepare for technical interviews by providing a structured and comprehensive collection of materials. Whether you're just starting out or looking to brush up on advanced topics, you'll find valuable resources here.
