@@ -1,8 +1,5 @@
-# InterviewPrep
-
-## Overview
-
-This repository is designed to help you prepare for technical interviews by providing a structured and comprehensive collection of materials. Whether you're just starting out or looking to brush up on advanced topics, you'll find valuable resources here.
+# Interview Resources   
+This repositiory have the collection of various concepts realted to the machine learning, deep leanring, and applied scientist interviews. I have compiled this list to brush up ML algorithms, Deep learning algorithms, optimizers and various data reduction techinques. Whether you're just starting out or looking to brush up on advanced topics, you'll find valuable resources here.
 
 ### What's Inside
 
@@ -46,6 +43,3 @@ Stay tuned as we continue to update the repository with new materials. We plan t
 - In-depth tutorials on specific algorithms and techniques
 - Real-world project examples
 - Additional practice problems and solutions
-
----
-
