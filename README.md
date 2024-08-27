@@ -31,15 +31,4 @@ This repositiory have the collection of various concepts realted to the machine 
 - **Interview Tips:**
   - Behavioral interview preparation
   - Mock interview scripts
-  - Strategies to tackle common interview questions
-
-## Contribution
-
-We welcome contributions! If you have relevant materials or solutions to add, please feel free to submit a pull request. Together, we can build a comprehensive resource that benefits everyone.
-
-## Coming Soon
-
-Stay tuned as we continue to update the repository with new materials. We plan to add:
-- In-depth tutorials on specific algorithms and techniques
-- Real-world project examples
-- Additional practice problems and solutions
+  - Strategies to tackle common interview 
