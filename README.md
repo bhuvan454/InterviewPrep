@@ -1,2 +1,2 @@
 # Interview Resources   
-This repositiory have the collection of various concepts realted to the machine learning, deep leanring, and applied scientist interviews. I have compiled this list to brush up ML algorithms, Deep learning algorithms, optimizers and various data reduction techinques. Whether you're just starting out or looking to brush up on advanced topics, you'll find valuable resources here.
+This repositiory have the collection of various concepts realted to the machine learning, deep leanring, and applied scientist interviews. 
